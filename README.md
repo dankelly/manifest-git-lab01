@@ -1,6 +1,8 @@
-##Lab 1: Getting familiar with Git
+Lab 1: Getting familiar with Git
+================================
 
-###Setup
+Setup
+-----
 1. Click the __`Clone or download`__ button at the top of the repository and click the __`Download ZIP`__ option.
 
     (Make sure you get the ZIP for this lab - do not clone the repository.)
@@ -13,7 +15,8 @@
 
 5. Reload the page. Note the page makes a request to `www.google-analytics.com`.
 
-###Lab
+Lab
+---
 When you downloaded the ZIP, Github packaged only the source code for the project. The project is not Git-aware on your filesystem.
 
 Your tasks are as follows:
